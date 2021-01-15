@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>294</ID>
+      <Description>"Boxes"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>285</ID>
+          <Description>"1"</Description>
+          <LastState Value="19" RealAddress="1F814289FA2"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>22</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>286</ID>
+          <Description>"2"</Description>
+          <LastState Value="1" RealAddress="1F81428A032"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>B2</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>287</ID>
+          <Description>"3"</Description>
+          <LastState Value="1" RealAddress="1F81428A0C2"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>142</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>288</ID>
+          <Description>"4"</Description>
+          <LastState Value="3" RealAddress="1F81428A152"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>1D2</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>289</ID>
+          <Description>"5"</Description>
+          <LastState Value="1" RealAddress="1F81428A1E2"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>262</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>290</ID>
+          <Description>"6"</Description>
+          <LastState Value="1" RealAddress="1F81428A272"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>2F2</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>291</ID>
+          <Description>"7"</Description>
+          <LastState Value="1" RealAddress="1F81428A302"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>382</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>292</ID>
+          <Description>"8"</Description>
+          <LastState Value="3" RealAddress="1F81428A392"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>412</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>293</ID>
+          <Description>"9"</Description>
+          <LastState Value="1" RealAddress="1F81428A422"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>4A2</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>BE8</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>127</ID>
+      <Description>"Character"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>305</ID>
+          <Description>"Hearts"</Description>
+          <LastState Value="20" RealAddress="1F800FA965C"/>
+          <VariableType>Float</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>9C</Offset>
+            <Offset>28</Offset>
+            <Offset>18</Offset>
+            <Offset>478</Offset>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>8</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>129</ID>
+          <Description>"God Mode"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(PlayerBase,Minecraft.Windows.exe,F3 0F 11 44 83 7C) // should be unique
+alloc(newmem,$1000,"Minecraft.Windows.exe"+14E899C)
+
+label(code)
+label(return)
+
+newmem:
+  push rcx
+  mov rcx,["Minecraft.Windows.exe"+03693B30]
+  mov rcx,[rcx+A8]
+  mov rcx,[rcx+8]
+  mov rcx,[rcx+50]
+  mov rcx,[rcx+0]
+  mov rcx,[rcx+478]
+  mov rcx,[rcx+18]
+  mov rcx,[rcx+20]
+  mov rcx,[rcx+9c]
+  cmp rcx,[rbx+84]
+  pop rcx
+  jne code
+  movss xmm0,[rbx+rax*4+7C]
+  movss [rbx+rax*4+7C],xmm0
+  jmp return
+
+code:
+  movss [rbx+rax*4+7C],xmm0
+  jmp return
+
+PlayerBase:
+  jmp newmem
+  nop
+return:
+registersymbol(PlayerBase)
+
+[DISABLE]
+
+PlayerBase:
+  db F3 0F 11 44 83 7C
+
+unregistersymbol(PlayerBase)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "Minecraft.Windows.exe"+14E899C
+
+"Minecraft.Windows.exe"+14E8978: 74 10                    -  je Minecraft.Windows.exe+14E898A
+"Minecraft.Windows.exe"+14E897A: F3 0F 10 52 40           -  movss xmm2,[rdx+40]
+"Minecraft.Windows.exe"+14E897F: 48 8B 01                 -  mov rax,[rcx]
+"Minecraft.Windows.exe"+14E8982: 8B 52 44                 -  mov edx,[rdx+44]
+"Minecraft.Windows.exe"+14E8985: FF 50 08                 -  call qword ptr [rax+08]
+"Minecraft.Windows.exe"+14E8988: EB 05                    -  jmp Minecraft.Windows.exe+14E898F
+"Minecraft.Windows.exe"+14E898A: F3 0F 10 42 08           -  movss xmm0,[rdx+08]
+"Minecraft.Windows.exe"+14E898F: 48 63 47 50              -  movsxd  rax,dword ptr [rdi+50]
+"Minecraft.Windows.exe"+14E8993: 48 8B CB                 -  mov rcx,rbx
+"Minecraft.Windows.exe"+14E8996: F3 0F 58 44 83 7C        -  addss xmm0,[rbx+rax*4+7C]
+// ---------- INJECTING HERE ----------
+"Minecraft.Windows.exe"+14E899C: F3 0F 11 44 83 7C        -  movss [rbx+rax*4+7C],xmm0
+// ---------- DONE INJECTING  ----------
+"Minecraft.Windows.exe"+14E89A2: F3 0F 10 8B 84 00 00 00  -  movss xmm1,[rbx+00000084]
+"Minecraft.Windows.exe"+14E89AA: 48 8B 5C 24 30           -  mov rbx,[rsp+30]
+"Minecraft.Windows.exe"+14E89AF: 48 83 C4 20              -  add rsp,20
+"Minecraft.Windows.exe"+14E89B3: 5F                       -  pop rdi
+"Minecraft.Windows.exe"+14E89B4: E9 07 00 00 00           -  jmp Minecraft.Windows.exe+14E89C0
+"Minecraft.Windows.exe"+14E89B9: CC                       -  int 3
+"Minecraft.Windows.exe"+14E89BA: CC                       -  int 3
+"Minecraft.Windows.exe"+14E89BB: CC                       -  int 3
+"Minecraft.Windows.exe"+14E89BC: CC                       -  int 3
+"Minecraft.Windows.exe"+14E89BD: CC                       -  int 3
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>283</ID>
+          <Description>"EXP Player 1"</Description>
+          <LastState Value="1" RealAddress="1F800FAC7BC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"Minecraft.Windows.exe"+03693B30</Address>
+          <Offsets>
+            <Offset>9C</Offset>
+            <Offset>200</Offset>
+            <Offset>18</Offset>
+            <Offset>478</Offset>
+            <Offset>0</Offset>
+            <Offset>50</Offset>
+            <Offset>8</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>281</ID>
+          <Description>"Instabreak"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(breaker,Minecraft.Windows.exe,89 73 20 48 89 73 60) // should be unique
+alloc(newmem,$1000,breaker)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov [rbx+20],(float)1
+  mov [rbx+60],rsi
+  jmp return
+
+breaker:
+  jmp newmem
+  nop 2
+return:
+registersymbol(breaker)
+
+[DISABLE]
+
+breaker:
+  db 89 73 20 48 89 73 60
+
+unregistersymbol(breaker)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: Minecraft.Windows.exe+1926E50
+
+Minecraft.Windows.exe+1926E21: 89 54 24 48              - mov [rsp+48],edx
+Minecraft.Windows.exe+1926E25: 44 89 44 24 4C           - mov [rsp+4C],r8d
+Minecraft.Windows.exe+1926E2A: 44 89 4C 24 50           - mov [rsp+50],r9d
+Minecraft.Windows.exe+1926E2F: 44 89 54 24 54           - mov [rsp+54],r10d
+Minecraft.Windows.exe+1926E34: C7 44 24 58 01 00 00 00  - mov [rsp+58],00000001
+Minecraft.Windows.exe+1926E3C: 48 89 44 24 60           - mov [rsp+60],rax
+Minecraft.Windows.exe+1926E41: 48 8B 01                 - mov rax,[rcx]
+Minecraft.Windows.exe+1926E44: 48 8D 54 24 20           - lea rdx,[rsp+20]
+Minecraft.Windows.exe+1926E49: FF 90 58 0D 00 00        - call qword ptr [rax+00000D58]
+Minecraft.Windows.exe+1926E4F: 90                       - nop
+// ---------- INJECTING HERE ----------
+Minecraft.Windows.exe+1926E50: 89 73 20                 - mov [rbx+20],esi
+// ---------- DONE INJECTING  ----------
+Minecraft.Windows.exe+1926E53: 48 89 73 60              - mov [rbx+60],rsi
+Minecraft.Windows.exe+1926E57: 48 8B 4C 24 70           - mov rcx,[rsp+70]
+Minecraft.Windows.exe+1926E5C: 48 33 CC                 - xor rcx,rsp
+Minecraft.Windows.exe+1926E5F: E8 EC 65 D8 00           - call Minecraft.Windows.exe+26AD450
+Minecraft.Windows.exe+1926E64: 4C 8D 9C 24 80 00 00 00  - lea r11,[rsp+00000080]
+Minecraft.Windows.exe+1926E6C: 49 8B 5B 18              - mov rbx,[r11+18]
+Minecraft.Windows.exe+1926E70: 49 8B 73 20              - mov rsi,[r11+20]
+Minecraft.Windows.exe+1926E74: 49 8B E3                 - mov rsp,r11
+Minecraft.Windows.exe+1926E77: 5F                       - pop rdi
+Minecraft.Windows.exe+1926E78: C3                       - ret
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>298</ID>
+          <Description>"Speed Hack **Auto to 0.3**"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(INJECT,Minecraft.Windows.exe,F3 0F 11 85 84 00 00 00 48) // should be unique
+alloc(newmem,$1000,INJECT)
+
+label(code)
+label(return)
+
+newmem:
+  mov [rbp+00000084],(float)0.3 // you can set this to desire speed up to 1
+  jmp return
+
+
+code:
+  movss [rbp+00000084],xmm0
+  jmp return
+
+INJECT:
+  jmp newmem
+  nop 3
+return:
+registersymbol(INJECT)
+
+[DISABLE]
+
+INJECT:
+  db F3 0F 11 85 84 00 00 00
+
+unregistersymbol(INJECT)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: Minecraft.Windows.exe+1E79F15
+
+Minecraft.Windows.exe+1E79EE5: 48 8B 45 20                 - mov rax,[rbp+20]
+Minecraft.Windows.exe+1E79EE9: 48 3B D8                    - cmp rbx,rax
+Minecraft.Windows.exe+1E79EEC: 0F 85 70 FF FF FF           - jne Minecraft.Windows.exe+1E79E62
+Minecraft.Windows.exe+1E79EF2: 48 8B 7C 24 68              - mov rdi,[rsp+68]
+Minecraft.Windows.exe+1E79EF7: F3 0F 10 B5 84 00 00 00     - movss xmm6,[rbp+00000084]
+Minecraft.Windows.exe+1E79EFF: 48 8B CD                    - mov rcx,rbp
+Minecraft.Windows.exe+1E79F02: E8 A9 00 00 00              - call Minecraft.Windows.exe+1E79FB0
+Minecraft.Windows.exe+1E79F07: 48 8B 4D 60                 - mov rcx,[rbp+60]
+Minecraft.Windows.exe+1E79F0B: 48 8B 74 24 60              - mov rsi,[rsp+60]
+Minecraft.Windows.exe+1E79F10: 48 8B 5C 24 58              - mov rbx,[rsp+58]
+// ---------- INJECTING HERE ----------
+Minecraft.Windows.exe+1E79F15: F3 0F 11 85 84 00 00 00     - movss [rbp+00000084],xmm0
+// ---------- DONE INJECTING  ----------
+Minecraft.Windows.exe+1E79F1D: 48 85 C9                    - test rcx,rcx
+Minecraft.Windows.exe+1E79F20: 74 32                       - je Minecraft.Windows.exe+1E79F54
+Minecraft.Windows.exe+1E79F22: 0F 2E F0                    - ucomiss xmm6,xmm0
+Minecraft.Windows.exe+1E79F25: 74 2D                       - je Minecraft.Windows.exe+1E79F54
+Minecraft.Windows.exe+1E79F27: 48 8B 01                    - mov rax,[rcx]
+Minecraft.Windows.exe+1E79F2A: 4C 8D 4C 24 20              - lea r9,[rsp+20]
+Minecraft.Windows.exe+1E79F2F: C7 44 24 20 0B 00 00 00     - mov [rsp+20],0000000B
+Minecraft.Windows.exe+1E79F37: 0F 28 CE                    - movaps xmm1,xmm6
+Minecraft.Windows.exe+1E79F3A: 48 C7 44 24 28 FF FF FF FF  - mov qword ptr [rsp+28],FFFFFFFFFFFFFFFF
+Minecraft.Windows.exe+1E79F43: 0F 28 54 24 20              - movaps xmm2,[rsp+20]
+}
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
